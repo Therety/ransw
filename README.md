@@ -3,4 +3,5 @@ Simple ransomware designed to be used for educational purposes. This malware is 
 
 The whole code is in C, so it is as close to hardware, as it gets (assuming, you are not trying to build it in Assembly).
 
- I am not responsible for any harm caused by this sample, as it uses the simplest encryption method && as mentioned on top, the code is only for educational purposes, especially for students, that are learning about malware and its behavior.
+## Disclaimer
+I am not responsible for any harm caused by this sample, as it uses the simplest encryption method && as mentioned on top, the code is only for educational purposes, especially for students, that are learning about malware and its behavior.
