@@ -15,4 +15,4 @@ for (int i = 0; i < fileSize; i++) {
 However, this type of encryption algorithm is very weak and reversible, thus i do not recommend using it.
 
 ## Disclaimer
-I am not responsible for any harm caused by this sample and as mentioned on top, the code is only for educational purposes, especially for students, that are learning about malware and its behavior. Feel free to modify my code.
+I am not responsible for any harm caused by this sample and as mentioned on top, the code is only for educational purposes, especially for students, that are learning about malware and its behavior like myself. Feel free to modify my code.
