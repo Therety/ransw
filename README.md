@@ -1,5 +1,5 @@
 # ransw
-Simple ransomware designed to be used for educational purposes. This malware is the simplest version of a ransomware (without the "ransom" part), where, by using XOR encryption, program will loop though each file located on users desktop, encrypt it and overwrite the old file with the new encrypted version (ignoring any other directory).
+Simple ransomware designed to be used for educational purposes. This malware is the simplest version of a ransomware (without the "ransom" part), where, by using XOR encryption, program will loop though each file located on users desktop, encrypt it's binary form and overwrite the old file with the new encrypted version (ignoring any other directory).
 
 The whole code is in C, so it is as close to hardware, as it gets (assuming, you are not trying to build it in Assembly).
 
